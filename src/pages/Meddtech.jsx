@@ -15,7 +15,7 @@ function Meddtech() {
         </div>
         <div data-aos="fade-right" className="w-full">
           <img
-            src="/images/human-looking-dna.jpg"
+            src="./images/human-looking-dna.jpg"
             alt=""
             className="w-[100%]"
             loading="lazy"
